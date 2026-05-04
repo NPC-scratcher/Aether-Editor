@@ -1,0 +1,6 @@
+{
+  "name": "Aether Editor",
+  "description": "Un creador de juegos visual basado en bloques al estilo Scratch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
